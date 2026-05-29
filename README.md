@@ -21,3 +21,5 @@ Puesto trainee en ciberseguridad - 2027
 - ✅ Linux Fundamentals Part 1
 - ✅ Traffic Analysis Essentials
 - 🔄 Snort (en curso)
+
+https://tryhackme.com/p/fernandezbelu882
