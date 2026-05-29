@@ -22,4 +22,6 @@ Puesto trainee en ciberseguridad - 2027
 - ✅ Traffic Analysis Essentials
 - 🔄 Snort (en curso)
 
+## Perfil Tryhackme [https://tryhackme.com/p/fernandezbelu882]
+
 https://tryhackme.com/p/fernandezbelu882
