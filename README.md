@@ -16,6 +16,9 @@ Puesto trainee en ciberseguridad - 2027
 - Snort
 - Linux (básico)
 
+## Proyectos
+- [IP Analyzer](projects/ip-analyzer/) - Detector de IPs sospechosas en logs de red
+
 ## Progreso en TryHackMe
 - ✅ Intro to Defensive Security
 - ✅ Linux Fundamentals Part 1
