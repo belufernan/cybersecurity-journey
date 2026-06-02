@@ -23,6 +23,7 @@ Puesto trainee en ciberseguridad - 2027
 - Introductory Networking
 - Intro to Offesive Security
 - Search Skills
+- DNS in Detail
 - Intro to Defensive Security
 - Linux Fundamentals Part 1
 - Traffic Analysis Essentials
