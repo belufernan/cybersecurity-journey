@@ -20,12 +20,12 @@ Puesto trainee en ciberseguridad - 2027
 - [IP Analyzer](projects/ip-analyzer/) - Detector de IPs sospechosas en logs de red
 
 ## Progreso en TryHackMe
--Introductory Networking
--Intro to Offesive Security
--Search Skills
--Intro to Defensive Security
--Linux Fundamentals Part 1
--Traffic Analysis Essentials
+- Introductory Networking
+- Intro to Offesive Security
+- Search Skills
+- Intro to Defensive Security
+- Linux Fundamentals Part 1
+- Traffic Analysis Essentials
 - 🔄 Snort (en curso)
 
 ## Perfil Tryhackme [https://tryhackme.com/p/fernandezbelu882]
