@@ -18,8 +18,8 @@ Puesto trainee en ciberseguridad - 2027
 - Linux (básico)
 
 ## Proyectos
-- [IP Analyzer](projects/ip-analyzer/) - Detector de IPs sospechosas en logs de red
-- [IDS - Intrusion Detection System](projects/ids-python/) - Detector de tráfico sospechoso en tiempo real
+- [IP Analyzer](https://github.com/belufernan/cybersecurity-journey/tree/main/ip_analyzer) - Detector de IPs sospechosas en logs de red
+- [IDS - Intrusion Detection System](https://github.com/belufernan/cybersecurity-journey/tree/main/ids-python) - Detector de tráfico sospechoso en tiempo real
 
 ## Progreso en TryHackMe (rooms completados)
 - Inside a Computer System
